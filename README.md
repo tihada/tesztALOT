@@ -1,7 +1,6 @@
- Projekt neve
-
-projekt leírás
-
- Technologies
- Git
+# Projekt neve
+## Projekt leírás
+ja, szép projektecske
+### Technologies
+- Git
 
