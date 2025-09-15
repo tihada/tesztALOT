@@ -4,3 +4,5 @@ ja, szép projektecske
 ### Technologies
 - Git
 
+### projekt ablak
+![alt text](screen.png)
